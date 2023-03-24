@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 
-This is a command line project that works on command promt and takes input from user for the position of X and after entering position computer automatically get the position of O.
+This is a command line project that works on command promt and result the winner of TicTacToe Game.
+
+It takes input from user for the position of X and after entering position computer automatically get the position of O.
 After all over..it will gives the result as
   if user own then "You Won....!!!",
   if user lose then "You Lose!",
